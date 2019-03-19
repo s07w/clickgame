@@ -1,0 +1,18 @@
+.card {
+    background: #fff;
+    border-radius: 2px;
+    height: 250px;
+    margin: 10px;
+    width: 260px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    overflow: hidden;
+  }
+  
+  /* Slide */
+   .hover img {
+      margin-left: 10px;
+      -webkit-transform: scale(1.5);
+      transform: scale(1.5);
+  }
+  
+  
